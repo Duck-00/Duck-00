@@ -1,11 +1,5 @@
 <h2 align="left">I like Ducks and sometimes code</h2>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/duck-00/duck-00/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/duck-00/duck-00/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -26,10 +20,3 @@
   <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/duck-00/duck-00/snake-output/snake.svg" alt="Snake animation" />
-
-###
